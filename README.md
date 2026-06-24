@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <!-- Animated typing banner via readme-typing-svg -->
@@ -19,22 +18,22 @@
 <br/>
 
 <!-- Social badges — replace [PLACEHOLDER] links -->
-<a href="[LINKEDIN_URL]" target="_blank">
+<a href="www.linkedin.com/in/vivek-singh-a0201938a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="[INSTAGRAM_URL]" target="_blank">
+<a href="https://www.instagram.com/viveksingh202431" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:viveksinghrajput8077@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <!-- Visitor counter — replace YOUR_GITHUB_USERNAME -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0d1117&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=VivekSingh8077&label=Profile+Views&color=0d1117&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -151,14 +150,14 @@ status     : Open to internships & collaborations
 <div align="center">
 
 <!-- Stats + Streak — side by side on desktop, stacked on mobile -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Vivek's GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VivekSingh8077&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Vivek's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="Vivek's GitHub Streak"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSingh8077&theme=github-dark-blue&hide_border=true" alt="Vivek's GitHub Streak"/>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSingh8077&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -166,7 +165,7 @@ status     : Open to internships & collaborations
 
 <!-- Activity Graph — replace YOUR_GITHUB_USERNAME -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekSingh8077&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 <br/>
@@ -181,9 +180,9 @@ status     : Open to internships & collaborations
 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YVivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -309,15 +308,15 @@ status     : Open to internships & collaborations
 
 <div align="center">
 
-<a href="[LINKEDIN_URL]" target="_blank">
+<a href="www.linkedin.com/in/vivek-singh-a0201938a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="[INSTAGRAM_URL]" target="_blank">
+<a href="https://www.instagram.com/viveksingh202431" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:viveksinghrajput8077@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -351,12 +350,6 @@ status     : Open to internships & collaborations
 <img src="https://img.shields.io/badge/Last_Updated-June_2025-1f6feb?style=flat&logoColor=white" alt="Last Updated"/>
 
 </div>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake-dark.svg" />
-</p>
 <!--
 **VivekSingh8077/VivekSingh8077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
