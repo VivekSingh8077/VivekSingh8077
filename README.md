@@ -1,5 +1,9 @@
 ## Hi there 👋
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <!--
 **VivekSingh8077/VivekSingh8077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
