@@ -63,7 +63,23 @@ status     : Open to internships & collaborations
 - 💼 &nbsp;Actively seeking **internship opportunities** — let's connect!
 
 ---
+## 🏆 &nbsp;Coding Profiles
 
+<div align="center">
+
+<a href="https://leetcode.com/u/vivek_s_ingh/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/viveksinghrajpu5" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://www.codechef.com/users/vivek_s_ingh" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+</div>
 <!-- ═══════════════════════════════════════════════════════════════════════════
      TECH STACK
      ═══════════════════════════════════════════════════════════════════════════ -->
@@ -139,23 +155,7 @@ status     : Open to internships & collaborations
 </details>
 
 ---
-## 🏆 &nbsp;Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/u/vivek_s_ingh/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/viveksinghrajpu5" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-<a href="https://www.codechef.com/users/vivek_s_ingh" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-</div>
 <!-- ═══════════════════════════════════════════════════════════════════════════
      GITHUB STATISTICS
      Replace YOUR_GITHUB_USERNAME in every URL below.
