@@ -7,7 +7,7 @@
 
 <!-- One-line tagline -->
 <p>
-  <em>B.Tech CSE · 2nd Year &nbsp;|&nbsp; Data Science &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Cloud Computing &nbsp;·&nbsp; Open Source</em>
+  <em>B.Tech Computer Science Engineering &nbsp;|&nbsp; Data Science &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Cloud Computing &nbsp;·&nbsp; Open Source</em>
 </p>
 
 <!-- Professional quote -->
@@ -18,7 +18,7 @@
 <br/>
 
 <!-- Social badges — replace [PLACEHOLDER] links -->
-<a href="www.linkedin.com/in/vivek-singh-a0201938a" target="_blank">
+<a href="https://www.linkedin.com/in/vivek-singh-a0201938a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -47,7 +47,7 @@
 
 ```yaml
 name       : Vivek Singh
-degree     : B.Tech — Computer Science Engineering (2nd Year)
+degree     : B.Tech — Computer Science Engineering
 interests  : [Data Science, AI/ML, DevOps, Cloud Computing, Backend Development]
 currently  : [DSA, AWS, Azure, Python, SQL, Linux, Docker, Git]
 goal       : Software Engineering Placement
@@ -139,7 +139,23 @@ status     : Open to internships & collaborations
 </details>
 
 ---
+## 🏆 &nbsp;Coding Profiles
 
+<div align="center">
+
+<a href="https://leetcode.com/u/vivek_s_ingh/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/viveksinghrajpu5" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://www.codechef.com/users/vivek_s_ingh" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+</div>
 <!-- ═══════════════════════════════════════════════════════════════════════════
      GITHUB STATISTICS
      Replace YOUR_GITHUB_USERNAME in every URL below.
@@ -182,7 +198,7 @@ status     : Open to internships & collaborations
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YVivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/VivekSingh8077/VivekSingh8077/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -195,110 +211,33 @@ status     : Open to internships & collaborations
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
-
-<!-- Project 1 -->
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🤖 AI Recipe Recommender
 
-> AI-powered recipe recommendation system using **Retrieval-Augmented Generation** and semantic vector search to suggest relevant recipes from natural language queries.
-
-**Stack:** `Python` `FastAPI` `FAISS` `Groq LLM` `RAG`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/ai-recipe-recommender)
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ AWS S3 Static Website Hosting
-
-> Hosted and deployed a static website using **Amazon S3** with public access policies, bucket website configuration, and proper IAM permissions — a production-style cloud deployment exercise.
-
-**Stack:** `AWS S3` `HTML` `CSS` `IAM`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/aws-s3-static-site)
+- FastAPI Backend
+- FAISS Vector Search
+- Groq LLM Integration
+- RAG-based Recipe Retrieval
+- Smart Ingredient Matching
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🛠️ DevOps Learning Repository
+<td width="50%">
 
-> A structured collection of hands-on labs covering **Docker**, **Linux**, **Git**, **CI/CD pipelines**, and **cloud** practice projects — documented for reference and review.
+### ☁️ AWS Static Website
 
-**Stack:** `Docker` `Linux` `Git` `GitHub Actions`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/devops-learning)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 Coming Soon
-
-> Next project in progress — stay tuned.
-
-**Stack:** `[PLACEHOLDER]`
-
-[![Repo](https://img.shields.io/badge/Coming_Soon-0d1117?style=for-the-badge&logo=github)](#)
+- Amazon S3 Hosting
+- Static Website Deployment
+- Cloud Computing Project
+- Responsive Design
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     LEARNING ROADMAP
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🗺️ &nbsp;Learning Roadmap
-
-<details open>
-<summary><strong>✅ Completed</strong></summary>
-<br/>
-
-- [x] Git & GitHub
-- [x] HTML & CSS
-- [x] C++ (Core Language)
-- [x] Python Basics
-
-</details>
-
-<details open>
-<summary><strong>🔄 Currently Learning</strong></summary>
-<br/>
-
-- [ ] Data Structures & Algorithms (DSA)
-- [ ] SQL & Relational Databases
-- [ ] Linux Administration
-- [ ] Docker & Containerization
-- [ ] Amazon Web Services (AWS)
-- [ ] Microsoft Azure
-- [ ] FastAPI
-
-</details>
-
-<details open>
-<summary><strong>🎯 Next Goals</strong></summary>
-<br/>
-
-- [ ] Kubernetes & Container Orchestration
-- [ ] Terraform (Infrastructure as Code)
-- [ ] Jenkins & CI/CD Pipelines
-- [ ] Machine Learning with Scikit-learn
-- [ ] Data Engineering Fundamentals
-- [ ] System Design Basics
-
-</details>
-
----
-
+<div align="center">
 <!-- ═══════════════════════════════════════════════════════════════════════════
      CONNECT WITH ME
      Replace [PLACEHOLDER] links below.
@@ -308,7 +247,7 @@ status     : Open to internships & collaborations
 
 <div align="center">
 
-<a href="www.linkedin.com/in/vivek-singh-a0201938a" target="_blank">
+<a href="https://www.linkedin.com/in/vivek-singh-a0201938a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
@@ -340,14 +279,14 @@ status     : Open to internships & collaborations
 <br/>
 
 <sub>
-  <strong>Thanks for visiting my profile.</strong> &nbsp;·&nbsp; Vivek Singh &nbsp;·&nbsp; B.Tech CSE · 2nd Year<br/>
+  <strong>Thanks for visiting my profile.</strong> &nbsp;·&nbsp; Vivek Singh &nbsp;·&nbsp; B.Tech CSE<br/>
   <em>If you find my work interesting, consider giving a ⭐ on a repository — it goes a long way!</em>
 </sub>
 
 <br/><br/>
 
 <!-- Last updated badge -->
-<img src="https://img.shields.io/badge/Last_Updated-June_2025-1f6feb?style=flat&logoColor=white" alt="Last Updated"/>
+<img src="https://img.shields.io/badge/Last_Updated-June_2026-1f6feb?style=flat&logoColor=white" alt="Last Updated"/>
 
 </div>
 <!--
